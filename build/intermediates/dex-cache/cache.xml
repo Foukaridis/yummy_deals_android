@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-5989ae1b21dc35d7e74991759295b3e9180f43f1.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-5d1ade2d34807fa715837c9f8cab2a96caf6f444.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-eef11e60bdcb4d0d973bd360d6f1915d4313ba93.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-8c0c0c594960151e58e6ffc0abde60bb9e3847ba.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-b47ee3ae9baa6bb5ddce09b9050b73798043a6c4.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-e6edd1b90d7215e4cdbae6e06444d55c02c2450e.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-00e7e3792dda500a19483f8180835020d530e92e.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/libs/universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.1-fd293654e1f0cb17d7d8ef15d5ab9dc377006e06.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-d7fe200ee8a29609573d0c4af7af44fe3704924f.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-e36686f9c83a46b4a4a80f33e0879139002a47e8.jar" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0-f6239821904b8bd6abe8ab66c1e2e11c76623210.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/libs/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0-faf34c2fd7f49a8f1484598c6652b2e6e6a466e5.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-cf24f9859e0cd727e1fb141bfaf38b9aed9920d1.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/libs/PayPalAndroidSDK.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4f1a7487f984f3f98599330fb406c05c7a62391">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/PayPalAndroidSDK-85f0b16c4271bbf11de4a28c8d917bf40e4b8b16.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-d2580c3fa35f35a914285580744b23c07b2741bf.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-d5b60c129e7223d3cb92b6e59e0e9464b9213dd3.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-214e138c55cd19eee15b7e0f957b59e1e437dc9a.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/volley-library/1.0.19/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7aa5e26c6f3234f03d72a19c8561aaaae468da23">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-6c7cb8aac23dd06f22022f61dfe70d456951eaae.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-82e7c0fc75e5c03712beb01b3317fbdb847c930e.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-f62f76ae42307499ae4cd564b26982a8b7d76bf8.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-cfac3acf852df6714c86a545828ae1147ebcb2cd.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-1f79a71b3c311cbba6e95ef5eae0f03b04200c7d.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-4f5aa7b8ffaddb6293ad6d9b369519b8fc127a36.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-096f1208ba9fa46e8ac4fde5db0ef1e4e09dc0c1.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.facebook.android/facebook4.2/4.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="00a7ca0be221d36e6574eeaa27a9a8a9704e3a9e">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-a1714955c3ab12e3030c9cab5316cec542fecdae.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-58451346ae113357ba6a2f88253af875d68b1ec5.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/libs/android-query-full.0.26.8.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/android-query-full.0.26.8-3b651f1b6c3f391942091b932bc2b89cf629cb9e.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-e1ddc0bd69a434c6fc05268292c3a099187d6e58.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-a7dee33e6d075322141c94a0832eb41f77e5e95d.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-68b51444d6b3181da856138db25bc8e20c421afa.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-dade884e5bdd531392d822a45577405d89db780a.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-8ca533a5710e67482d5fe5ecd56d73a524d85d52.jar" />
+    </item>
+    <item
+        jar="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/home/steven/Desktop/App Y /hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/build/intermediates/pre-dexed/debug/classes-5da99cfca699942cee54a0aa10daaa84d2791ecc.jar" />
+    </item>
+
+</items>

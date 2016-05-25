@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>
+<!-- From: file:/home/steven/Desktop/App%20Y%20/hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/src/main/res/menu/main.xml -->

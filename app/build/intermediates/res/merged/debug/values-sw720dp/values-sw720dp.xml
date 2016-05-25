@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/steven/Desktop/App%20Y%20/hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/src/main/res/values-sw720dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+    <dimen name="btn_login_height">70dp</dimen>
+    <dimen name="btn_login_width1">180dp</dimen>
+    <dimen name="dialog_open_time_height">600dp</dimen>
+    <dimen name="max_height_rating_bar">40dip</dimen>
+    <dimen name="min_height_rating_bar">36dip</dimen>
+</resources>

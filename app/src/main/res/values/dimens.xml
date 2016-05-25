@@ -1,0 +1,68 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="banner_height">180dp</dimen>
+    <dimen name="app_margin_large">20dp</dimen>
+    <dimen name="app_margin">10dp</dimen>
+    <dimen name="app_margin_small">5dp</dimen>
+    <dimen name="app_margin_tiny">2dp</dimen>
+    <dimen name="app_layout_bottom_height">60dp</dimen>
+    <dimen name="app_layout_bottom_height2">50dp</dimen>
+    <dimen name="app_layout_bottom_height1">78dp</dimen>
+    <dimen name="app_list_offer_height">100dp</dimen>
+    <dimen name="app_button_delete_in_row_width_height">24dp</dimen>
+    <dimen name="app_button_top_width_height">40dp</dimen>
+    <dimen name="app_button_top_width_height1">30dp</dimen>
+    <dimen name="app_button_top_search_width_height">32dp</dimen>
+    <dimen name="app_image_width_height_in_row">100dp</dimen>
+    <dimen name="row_image_category_height">150dp</dimen>
+    <dimen name="row_shop_height">100dp</dimen>
+    <dimen name="text_title_size">24sp</dimen>
+    <dimen name="text_normal_size">18sp</dimen>
+    <dimen name="text_small_size_16">15sp</dimen>
+    <dimen name="text_small_size">14sp</dimen>
+    <dimen name="text_small_small_size">12sp</dimen>
+    <dimen name="dialog_open_time_height">420dp</dimen>
+    <dimen name="width_image_map">125dp</dimen>
+    <dimen name="height_image_map">100dp</dimen>
+    <dimen name="image_detail_height">230dp</dimen>
+    <dimen name="image_width_map_detail">300dp</dimen>
+    <dimen name="width_title_account_text">90dp</dimen>
+    <dimen name="width_title_account_change_pass">130dp</dimen>
+    <dimen name="dialog_margin_top_bottom">7dp</dimen>
+    <dimen name="dialog_margin_left_right">10dp</dimen>
+    <dimen name="app_button_small">24dp</dimen>
+    <dimen name="app_button_normal">28dp</dimen>
+    <dimen name="wh_image_account">70dp</dimen>
+    <dimen name="btn_login_width1">140dp</dimen>
+    <dimen name="btn_login_width">120dp</dimen>
+    <dimen name="btn_login_height">50dp</dimen>
+    <dimen name="min_height_rating_bar">20dip</dimen>
+    <dimen name="max_height_rating_bar">24dip</dimen>
+
+    <!-- Created by Ai -->
+    <!-- Dimensions -->
+    <dimen name="dimen_05x">4dp</dimen>
+    <dimen name="dimen_1x">8dp</dimen>
+    <dimen name="dimen_x1x">12dp</dimen>
+    <dimen name="dimen_2x">16dp</dimen>
+    <dimen name="dimen_x2x">20dp</dimen>
+    <dimen name="dimen_3x">24dp</dimen>
+    <dimen name="dimen_x3x">28dp</dimen>
+    <dimen name="dimen_4x">32dp</dimen>
+    <dimen name="dimen_x4x">36dp</dimen>
+    <dimen name="dimen_5x">40dp</dimen>
+    <dimen name="dimen_6x">48dp</dimen>
+    <dimen name="dimen_7x">56dp</dimen>
+    <dimen name="dimen_8x">64dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_xlarge">18sp</dimen>
+    <dimen name="text_size_title">20sp</dimen>
+
+</resources>

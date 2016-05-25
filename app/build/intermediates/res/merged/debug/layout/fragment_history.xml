@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/gone"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_backgroundnew" >
+
+    <LinearLayout
+        android:id="@+id/layoutUser"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/layoutHeader"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/app_layout_bottom_height"
+            android:background="@color/primary_dark"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/btnBack"
+                android:layout_width="@dimen/app_button_top_width_height1"
+                android:layout_height="@dimen/app_button_top_width_height1"
+                android:layout_marginLeft="@dimen/app_margin_small"
+                android:background="@drawable/ic_backs" />
+
+            <TextView
+                android:id="@+id/lblShopName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/app_margin_small"
+                android:text="@string/history"
+                android:textColor="@color/cl_white"
+                android:textSize="@dimen/text_title_size"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <com.hcpt.multirestaurant.pulltorefresh.PullToRefreshListView
+            android:id="@+id/lvOrder"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/app_margin"
+            android:layout_marginLeft="@dimen/app_margin"
+            android:layout_marginRight="@dimen/app_margin"
+            android:layout_marginTop="@dimen/app_margin_large"
+            android:background="@drawable/custom_layout_radius"
+            android:divider="@drawable/line"
+            android:dividerHeight="0.2dp"
+            ptr:ptrMode="both" />
+    </LinearLayout>
+
+    <WebView
+        android:id="@+id/wbChef"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+
+</FrameLayout><!-- From: file:/home/steven/Desktop/App%20Y%20/hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/src/main/res/layout/fragment_history.xml -->

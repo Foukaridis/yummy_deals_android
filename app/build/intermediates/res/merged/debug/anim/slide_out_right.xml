@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="500"
+    android:fromXDelta="0"
+    android:toXDelta="100%p" />
+<!-- From: file:/home/steven/Desktop/App%20Y%20/hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/src/main/res/anim/slide_out_right.xml -->

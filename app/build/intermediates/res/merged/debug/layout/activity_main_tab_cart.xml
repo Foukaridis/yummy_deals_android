@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    tools:context=".MainActivity" >
+
+    <fragment
+        android:id="@+id/fragmentShopCart"
+        android:name="com.hcpt.multirestaurant.activity.tabs.cart.ShopCartFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <fragment
+        android:id="@+id/fragmentDeliveryInfo"
+        android:name="com.hcpt.multirestaurant.activity.tabs.cart.DeliveryInfoFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+</RelativeLayout><!-- From: file:/home/steven/Desktop/App%20Y%20/hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/src/main/res/layout/activity_main_tab_cart.xml -->

@@ -1,0 +1,142 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_backgroundnew"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:id="@+id/layoutHeader"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/app_layout_bottom_height"
+        android:background="@color/primary_dark"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/btnBack"
+            android:layout_width="@dimen/app_button_top_width_height1"
+            android:layout_height="@dimen/app_button_top_width_height1"
+            android:layout_marginLeft="@dimen/app_margin_small"
+            android:background="@drawable/ic_backs" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/app_margin_small"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/lblShopName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/add_review"
+                android:textColor="@color/cl_white"
+                android:textSize="@dimen/text_normal_size"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/lblMenuName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="@dimen/app_margin_tiny"
+                android:text="@string/menus"
+                android:textColor="@color/cl_white"
+                android:textSize="@dimen/text_small_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/app_margin"
+        android:layout_weight="1"
+        android:background="@drawable/bg_account_info"
+        android:orientation="vertical"
+        android:padding="@dimen/app_margin" >
+
+        <TextView
+            android:layout_width="@dimen/width_title_account_text"
+            android:layout_height="wrap_content"
+            android:text="@string/rating"
+            android:textSize="@dimen/text_normal_size" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="@dimen/app_margin" >
+
+            <RatingBar
+                android:id="@+id/rtbRating"
+                style="@style/CustomRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:max="5"
+                android:numStars="5"
+                android:progress="5"
+                android:stepSize="1" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/app_margin"
+            android:text="@string/fullname"
+            android:textSize="@dimen/text_normal_size" />
+
+        <EditText
+            android:id="@+id/txtFullname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:background="@drawable/textview_bg"
+            android:padding="@dimen/app_margin_small">
+
+            <requestFocus />
+        </EditText>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/remind_entering_user_name"
+            android:textColor="@color/secondary_text"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/app_margin"
+            android:text="@string/add_review"
+            android:textSize="@dimen/text_normal_size" />
+
+        <EditText
+            android:id="@+id/txtReview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="top"
+            android:inputType="textMultiLine"
+            android:lines="5"
+            android:background="@drawable/textview_bg"
+            android:padding="@dimen/app_margin_small"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/app_margin"
+            android:gravity="center_vertical|right" >
+
+            <TextView
+                android:id="@+id/btnAdd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_button"
+                android:padding="@dimen/app_margin"
+                android:text="@string/add_review"
+                android:textColor="@color/cl_white"
+                android:textSize="@dimen/text_normal_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/home/steven/Desktop/App%20Y%20/hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/src/main/res/layout/activity_send_review.xml -->

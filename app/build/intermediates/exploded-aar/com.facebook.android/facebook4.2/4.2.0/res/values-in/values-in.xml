@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/steven/Desktop/App%20Y%20/hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/facebook4.2/res/values-in/messenger_button_strings.xml -->
+    <eat-comment/>
+    <string name="messenger_send_button_text">Kirim</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/shape_my" >
+
+    <stroke
+        android:width="0dp"
+        android:color="#636161" />
+
+    <padding
+        android:bottom="@dimen/dimen_2x"
+        android:left="@dimen/dimen_2x"
+        android:right="@dimen/dimen_2x"
+        android:top="@dimen/dimen_2x" />
+
+    <corners android:radius="@dimen/dimen_1x" />
+
+    <solid android:color="@color/cl_white" />
+
+</shape><!-- From: file:/home/steven/Desktop/App%20Y%20/hicomsolutions.com_multirestaurants_android_php_src_20160301/multirestaurant/app/src/main/res/drawable/bg_white_radius.xml -->
